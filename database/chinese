@@ -1,39 +1,39 @@
 ---
-name: 语言
-description: 作品的语言。
-key: language
-abbr: l
-aliases:
-  - lang
-copyright: >
-  除有特殊说明外，本文的简介文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
+姓名：汉语
+描述：汉语
+键：汉语
+缩写：l
+别名：
+-lang
+版权：>
+除有特殊说明外，本文的简介文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(创意共享)署名-相同方式共享
   3.0协议）进行二次分发。
 
 
-  对于标有(*)的条目，其简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
+  对于标有(*)的条目，其简介文本翻译自EHWiki，遵循原始许可协议(即GNU自由文档许可证)进行二次分发.
 
 
-  Copyright (c) 2022 EhTagTranslation. Permission is granted to copy, distribute
-  and/or modify this document under the terms of the GNU Free Documentation
-  License, Version 1.2 or any later version published by the Free Software
-  Foundation; with no Invariant Sections, no Front-Cover Texts, and no
-  Back-Cover Texts. A copy of the license is included in the section entitled
-  "GNU Free Documentation License".
+  版权 (c) 2022EhTagTranslation。授予复制、分发权限
+和/或修改这GNU免费文档条款下的文档
+许可证，版本1.2 或任何的 后来 版本 出版 通过 这 免费的 软件
+  基础；没有不变的部分，没有封面文本，没有
+封底文字。A复制 ……的 这 许可证 是 包括在内 在……内 这 部分 有权的
+  "GNU免费 文档 许可证"。
 
 
-  对于标有(**)的条目，其简介文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
-  3.0 协议）进行二次分发。
+  对于标有(**)的条目，其简介文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(创意共享)署名-非商业性使用-相同方式共享
+  3.0协议）进行二次分发。
 
 
-  本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
-rules:
-  - 语言按首字母排序。
-  - 语言列表参考[语言标签目录](https://ehwiki.org/wiki/language)。
-example:
-  raw: speechless
-  name: 无言
-  intro: |
-    图库没有任何表示交谈或叙事意义的文字。设置该图库语言为无语言(N/A)。含有拟声词或发出声音不影响此标签。不要和`text cleaned`混淆。
+本文的其他内容，遵循知识共享(创意共享)署名-非商业性使用-相同方式共享3.0协议提供。
+规则：
+- 语言按首字母排序。
+- 语言列表参考[语言标签目录](HTTPS：//ehwiki.org/wiki/language)。
+样例:
+raw：无语
+姓名：无言
+简介：|
+图库没有任何表示交谈或叙事意义的文字。 设置该图库语言为无语言(不适用)。含有拟声词或发出声音不影响此标签。不要和‘文字已清除'混淆。
   links: |
     (\*)
 ---
